@@ -201,6 +201,7 @@ jobs:
 
 ## Examples
 
+> **Note:** The `version` input defaults to `latest`, so it is omitted from the examples below. For reproducible scans, pin a specific Kubescape release with e.g. `version: v3.0.21`.
 
 #### Scan and submit results to the [Kubescape Cloud](https://cloud.armosec.io/)
 
